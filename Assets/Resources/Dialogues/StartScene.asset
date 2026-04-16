@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d312487926e726e4fb9a782a4e1b0ad9, type: 3}
+  m_Name: StartScene
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: "\u5C0F\u8CF4"
+    sentence: "\u597D\uFF0C\u90A3\u4ECA\u5929\u5462 \u98A8\u5149\u660E\u5A9A\u98A8\u548C\u65E5\u9E97\uFF0C\u662F\u500B\u4E0A\u73ED\u7684\u597D\u65E5\u5B50\u3002\n(\u7A7A\u767D\u9375\u7E7C\u7E8C)\n"
+    avatar: {fileID: 21300000, guid: 3b5ccb5f83f5ef343aa9dcbc737a748e, type: 3}
+  - speakerName: "\u5C0F\u8CF4"
+    sentence: "\u6211\u7684\u5922\u60F3\uFF0C\u6025\u9700\u8981\u9322\u9322\u652F\u6490\u5462\uFF0C\n\u90A3\u6240\u4EE5\u4ECA\u5929\u300C\u4E0A\u73ED\u4E0A\u5230\u98FD\u300D\u3002"
+    avatar: {fileID: 21300000, guid: 3b5ccb5f83f5ef343aa9dcbc737a748e, type: 3}
+  - speakerName: "\u5C0F\u8CF4"
+    sentence: "(\u73A9\u6CD5\u4ECB\u7D39) \nWASD\u70BA\u79FB\u52D5\uFF0CSHIFT\u52A0\u901F\uFF0CQE\u5207\u63DB\u6B66\u5668\uFF0C\u6ED1\u9F20\u5DE6\u9375\u5C04\u64CA\u3002 "
+    avatar: {fileID: 21300000, guid: 3b5ccb5f83f5ef343aa9dcbc737a748e, type: 3}
+  - speakerName: "\u5C0F\u8CF4"
+    sentence: "\u5F9E\u5DE6\u81F3\u53F3\u5206\u5225\u70BA1\u52303\u95DC\uFF0C\u63A8\u85A6\u5F9E\u7B2C1\u95DC\u958B\u59CB\u3002"
+    avatar: {fileID: 21300000, guid: 3b5ccb5f83f5ef343aa9dcbc737a748e, type: 3}
